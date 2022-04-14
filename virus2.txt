@@ -1,0 +1,11 @@
+Endereços iP:
+123.123.123.123
+
+
+email:
+email@gmail.com
+
+domain:
+domain.com
+
+Um texto aleatório para um ficheiro aleatório, sem grande propósito.
