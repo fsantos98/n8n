@@ -8,3 +8,9 @@ francisco3@gmaile.com
 13.13.13.133
 111.111.111.211
 99.99.99.39
+
+domain.com
+domain1.com
+domain.com.pt
+domain2.com.pt
+doman.com.pt
